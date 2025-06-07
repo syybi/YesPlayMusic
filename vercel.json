@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music-api.xdos.tk/:match*"
+      "destination": "https://163api.qijieya.cn/:match*"
     }
   ]
 }
